@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @smeegzuk
+- 👋 Hi, I’m @DeanoDev
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
